@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\assets\\scripts\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|c:\\users\\mtx\\desktop\\code\\unity\\space 2\\assets\\scripts\\instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\assets\\scripts\\playsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\assets\\scripts\\breakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\breakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\assets\\scripts\\meteorpistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\meteorpistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\assets\\scripts\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\assets\\scripts\\triggerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D89A784-5915-8474-3289-2FAD38C0F778}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\PlaySteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlaySteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\ButtonPushOpenDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ButtonPushOpenDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568C22E-2D5E-1145-E303-F5E10EC39126}|Unity.XR.CoreUtils.csproj|C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1568C22E-2D5E-1145-E303-F5E10EC39126}|Unity.XR.CoreUtils.csproj|solutionrelative:Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameTime.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\GameTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameTime.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\GameTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameTime.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:07:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instructions.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\Instructions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Instructions.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\Instructions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Instructions.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:33:39.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaySteps.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\PlaySteps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaySteps.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\PlaySteps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaySteps.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:57:07.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XRLoggingUtils.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswDcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:37:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Breakable.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\Breakable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Breakable.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\Breakable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Breakable.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:25:23.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaySteps.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\PlaySteps.cs",
+              "RelativeDocumentMoniker": "Assets\\PlaySteps.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\PlaySteps.cs",
+              "RelativeToolTip": "Assets\\PlaySteps.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:14:43.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonPushOpenDoor.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\ButtonPushOpenDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\ButtonPushOpenDoor.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\ButtonPushOpenDoor.cs",
+              "RelativeToolTip": "Assets\\ButtonPushOpenDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:45:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrashCan.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\TrashCan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrashCan.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\TrashCan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrashCan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:23:33.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriggerZone.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\TriggerZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerZone.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\TriggerZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:23:16.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeteorPistol.cs",
+              "DocumentMoniker": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\MeteorPistol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MeteorPistol.cs",
+              "ToolTip": "C:\\Users\\mtx\\Desktop\\code\\unity\\Space 2\\Assets\\Scripts\\MeteorPistol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MeteorPistol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:22:54.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+repository "Space 2@yepmtx@cloud"
+  path "/"
+    br "/main"
+    co "/main"
